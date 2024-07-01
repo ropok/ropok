@@ -9,16 +9,16 @@ I'm a game developer with 3+ years experience, as a game programmer actively wor
 ### Connect with me
 
 <a href="https://www.youtube.com/@JalerSekarMaji">
-  <img align="left" alt="YouTube" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=37325&format=png&color=000000">
+  <img align="left" alt="YouTube" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000">
 </a>
 <a href="https://www.linkedin.com/in/jalerse">
-  <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=447&format=png&color=000000">
+  <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000">
 </a>
 <a href="https://www.instagram.com/jalerse">
-  <img align="left" alt="Instagram" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=32292&format=png&color=000000">
+  <img align="left" alt="Instagram" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000">
 </a>
 <a href="https://x.com/pitikpatrol">
-  <img align="left" alt="X" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=111056&format=png&color=000000">
+  <img align="left" alt="X" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000">
 </a>
 <br />
 
